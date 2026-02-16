@@ -9,6 +9,9 @@ numpy==1.26.4
 supabase==2.3.4
 python-dotenv==1.0.0
 
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+
 # For spaCy language model, run after installing:
 # python -m spacy download en_core_web_sm
 # Or for better results:
