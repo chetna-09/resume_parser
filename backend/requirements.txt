@@ -8,9 +8,17 @@ blis==0.7.11
 numpy==1.26.4
 python-dotenv==1.0.0
 gunicorn==21.2.0
-supabase==2.3.4
-gotrue==2.9.1
-httpx==0.25.2
+supabase==2.0.3
+gotrue==2.4.2
+postgrest==0.13.2
+storage3==0.5.4
+realtime==1.0.0
+supafunc==0.2.3
+httpx==0.24.1
+httpcore==0.17.3
+h11==0.14.0
+anyio==3.7.1
+websockets==11.0.3
 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 
